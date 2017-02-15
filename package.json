@@ -1,6 +1,6 @@
 {
   "name": "ff-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get configuration feature flags and check their state",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:dmitry-nizovsky/ff-loader.git"
+    "url": "git@github.com:dmitry-nizovsky/feature-flags.git"
   },
   "bugs": {
     "url": "https://github.com/dmitry-nizovsky/ff-plugin/issues"
