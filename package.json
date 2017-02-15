@@ -1,0 +1,23 @@
+{
+  "name": "ff-module",
+  "version": "1.0.0",
+  "description": "Get configuration feature flags and check their state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Nizovsky <dmitry.nizovsky@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dmitry-nizovsky/ff-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmitry-nizovsky/ff-plugin/issues"
+  }
+}
